@@ -1,0 +1,254 @@
+[
+	{
+		"id": "AeHIrLTr6JkxGE6SN-0Rw",
+		"shopName": "mc",
+		"price": "2",
+		"name": "Big Mac",
+		"img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_0005_BigMac_832x472:product-header-desktop?wid=830&hei=458&dpr=off"
+	},
+	{
+		"id": "AeHIrRTr6JkxGE6SN-0Rw",
+		"shopName": "mc",
+		"price": "1",
+		"name": "Cheeseburger",
+		"img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202006_0003_Cheeseburger_StraightBun_832x472:product-header-desktop?wid=830&hei=458&dpr=off"
+	},
+	{
+		"id": "AsHIrRTr6JkxGE6SN-0Rw",
+		"shopName": "mc",
+		"price": "1",
+		"name": "Hamburger",
+		"img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202006_0001_Hamburger_Alt_832x472:product-header-desktop?wid=830&hei=458&dpr=off"
+	},
+	{
+		"id": "FsHIrRTr6JkxGE6SN-0Rw",
+		"shopName": "mc",
+		"price": "1.5",
+		"name": "French Fries",
+		"img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_6053_LargeFries_832x472:product-header-desktop?wid=830&hei=456&dpr=off"
+	},
+	{
+		"id": "FsHIrRTs6JkxGE6SN-8Rw",
+		"shopName": "mc",
+		"price": "2",
+		"name": "Double Cheeseburger",
+		"img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_0004_DoubleCheeseburger_Alt_832x472:product-header-desktop?wid=830&hei=458&dpr=off"
+	},
+	{
+		"id": "FsHIrRTs6JkxGE6SN-0Rw",
+		"shopName": "mc",
+		"price": "3",
+		"name": "Happy Meal",
+		"img": "https://s7d1.scene7.com/is/image/mcdonalds/h-mcdonalds-Hamburger:product-header-desktop?wid=830&hei=456&dpr=off"
+	},
+	{
+		"id": "FsHIrRTs6JkxGE6SN-1Rw",
+		"shopName": "mc",
+		"price": "1",
+		"name": "Chicken McNuggets",
+		"img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202006_0483_4McNuggets_Stacked_832x472:product-header-desktop?wid=830&hei=458&dpr=off"
+	},
+	{
+		"id": "FsHIrRTs6JkxGE3SN-1Rw",
+		"shopName": "mc",
+		"price": "0.5",
+		"name": "Coca-Cola",
+		"img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202112_0521_MediumCoke_Glass_832x472:product-header-desktop?wid=830&hei=458&dpr=off"
+	},
+	{
+		"id": "FsHIrRts6JkxGE3SN-1Rw",
+		"shopName": "mc",
+		"price": "0.5",
+		"name": "McCafé Hot Chocolate",
+		"img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1697_MediumPremiumHotChocolate_Glass_A1_HL_832x472:product-header-desktop?wid=830&hei=458&dpr=off"
+	},
+	{
+		"id": "FsVIrRts6JkxGE3SN-1Vw",
+		"shopName": "kfc",
+		"price": "4",
+		"name": "Bucket Duet Original",
+		"img": "https://www.kfc-ukraine.com/admin/files/4093.png"
+	},
+	{
+		"id": "FsНIrRts6JkxGE3SN-1Rw",
+		"shopName": "kfc",
+		"price": "1",
+		"name": "Classic",
+		"img": "https://www.kfc-ukraine.com/admin/files/4191.png"
+	},
+	{
+		"id": "FsНIrRts6JkxGE3SN-2Rw",
+		"shopName": "kfc",
+		"price": "1",
+		"name": "Cheeseburger",
+		"img": "https://www.kfc-ukraine.com/admin/files/4061.jpg"
+	},
+	{
+		"id": "FsНIrRts6JkxGe3SN-2Rw",
+		"shopName": "kfc",
+		"price": "1",
+		"name": "Spicy Wings",
+		"img": "https://www.kfc-ukraine.com/admin/files/3786.jpg"
+	},
+	{
+		"id": "FsНIrRts6JkxGe3SN-2Bw",
+		"shopName": "kfc",
+		"price": "1",
+		"name": "Spicy Strips",
+		"img": "https://www.kfc-ukraine.com/admin/files/3785.jpg"
+	},
+	{
+		"id": "FsНIrRtb6JkxGe3SN-2Bw",
+		"shopName": "kfc",
+		"price": "1.5",
+		"name": "Drumsticks",
+		"img": "https://www.kfc-ukraine.com/admin/files/3799.jpg"
+	},
+	{
+		"id": "FsНIrRtb6SkxGe3SN-2Bw",
+		"shopName": "kfc",
+		"price": "1",
+		"name": "Bites",
+		"img": "https://www.kfc-ukraine.com/admin/files/3797.jpg"
+	},
+	{
+		"id": "FsНIrRta6SkxGe3SN-2Bw",
+		"shopName": "kfc",
+		"price": "1",
+		"name": "Nuggets",
+		"img": "https://www.kfc-ukraine.com/admin/files/4116.png"
+	},
+	{
+		"id": "FsНIrRts6JkxGE3SN-1Rw",
+		"shopName": "kfc",
+		"price": "0.5",
+		"name": "Pepsi",
+		"img": "https://www.kfc-ukraine.com/admin/files/3773.jpg"
+	},
+	{
+		"id": "FyНIrRts6JkxGE3SN-1Rw",
+		"shopName": "ph",
+		"price": "0.5",
+		"name": "Borscht",
+		"img": "https://media.puzatahata.ua/__sized__/images/productosg/2022/07/07/0af2ca6a-431a-4323-99dd-b379dc181daf-thumbnail-400x400-100.jpg"
+	},
+	{
+		"id": "FyНIrRts6JkoGE3SN-1Rw",
+		"shopName": "ph",
+		"price": "0.5",
+		"name": "Okroshka",
+		"img": "https://media.puzatahata.ua/__sized__/images/productosg/2021/05/13/974a4aba-11f9-4d68-bd45-12d0bb8c7b38-thumbnail-400x400-100.jpg"
+	},
+	{
+		"id": "FyНIrRts6JkoGE3SN-3Rw",
+		"shopName": "ph",
+		"price": "0.75",
+		"name": "Pilaf",
+		"img": "https://media.puzatahata.ua/__sized__/images/productosg/2022/10/21/89cf1a35-b27b-4e08-a85a-ffd85bfb07f2-thumbnail-400x400-100.jpg"
+	},
+	{
+		"id": "FyНIrRts6JkoGE3SN-4Rw",
+		"shopName": "ph",
+		"price": "0.5",
+		"name": "Mashed Potatoes",
+		"img": "https://media.puzatahata.ua/__sized__/images/productosg/2022/07/07/de123420-4a58-4c85-95d1-d4801062fc06-thumbnail-400x400-100.jpg"
+	},
+	{
+		"id": "FyНIrRts6JkoGE3SN-5Rw",
+		"shopName": "ph",
+		"price": "0.5",
+		"name": "Rice With Vegetables",
+		"img": "https://media.puzatahata.ua/__sized__/images/productosg/2022/07/07/bfd1ffe1-024a-4438-a0f9-6d47f746412f-thumbnail-400x400-100.jpg"
+	},
+	{
+		"id": "FyНIrRts6JkoGE3SN-6Rw",
+		"shopName": "ph",
+		"price": "0.5",
+		"name": "Chicken Cutlet",
+		"img": "https://media.puzatahata.ua/__sized__/images/productosg/2022/07/07/cc07c55d-c343-43a5-a8c5-9d0d8504d566-thumbnail-400x400-100.jpg"
+	},
+	{
+		"id": "FyНIrRts6JkoGE3SN-7Rw",
+		"shopName": "ph",
+		"price": "0.75",
+		"name": "Chicken Kiev",
+		"img": "https://media.puzatahata.ua/__sized__/images/productosg/2022/07/07/943a6add-d09d-4fa6-b4d9-ae7ad60f52c0-thumbnail-400x400-100.jpg"
+	},
+	{
+		"id": "FyНIrRts6JkoGE3SN-8Rw",
+		"shopName": "ph",
+		"price": "0.75",
+		"name": "Dumplings With Сherries",
+		"img": "https://media.puzatahata.ua/__sized__/images/productosg/2022/07/07/677b82d7-fa04-49dd-a2e4-53431c9b9b8d-thumbnail-400x400-100.jpg"
+	},
+	{
+		"id": "FyНIrRts6JkoGE3SN-9Rw",
+		"shopName": "ph",
+		"price": "0.5",
+		"name": "Compote",
+		"img": "https://media.puzatahata.ua/__sized__/images/productosg/2022/07/08/f67fe334-bf1b-4541-abec-64ac7aac5ed5-thumbnail-400x400-100.jpg"
+	},
+	{
+		"id": "SyНIrRts6JkoGE3SN-1Rw",
+		"shopName": "str",
+		"price": "3",
+		"name": "Doner Roast Beef",
+		"img": "https://salateira.ua/wp-content/uploads/2023/05/donner_rosbiff-1.jpg"
+	},
+	{
+		"id": "SyНIrRts6JkoGE3SN-2Rw",
+		"shopName": "str",
+		"price": "4",
+		"name": "Carbonara",
+		"img": "https://salateira.ua/wp-content/uploads/2020/02/carbo_19psd_r.png"
+	},
+	{
+		"id": "SyНIrRts6JkoGE3SN-3Rw",
+		"shopName": "str",
+		"price": "4",
+		"name": "Fresco",
+		"img": "https://salateira.ua/wp-content/uploads/2020/02/fresko-1.png"
+	},
+	{
+		"id": "SyНIrRts6JkoGE3SN-4Rw",
+		"shopName": "str",
+		"price": "2.5",
+		"name": "Chicken Hummus",
+		"img": "https://salateira.ua/wp-content/uploads/2022/05/ss19_h_full_2000.jpg"
+	},
+	{
+		"id": "SyНIrRts6JkoGE3SN-5Rw",
+		"shopName": "str",
+		"price": "2.5",
+		"name": "Croissant Polo",
+		"img": "https://salateira.ua/wp-content/uploads/2020/02/pollo_menu.png"
+	},
+	{
+		"id": "SyНIrRts6JkoGE3SN-6Rw",
+		"shopName": "str",
+		"price": "3",
+		"name": "Croissant Tritone",
+		"img": "https://salateira.ua/wp-content/uploads/2020/02/tritone_menu.png"
+	},
+	{
+		"id": "SyНIrRts6JkoGE3SN-7Rw",
+		"shopName": "str",
+		"price": "2.5",
+		"name": "Miso Soup With Shrimp",
+		"img": "https://salateira.ua/wp-content/uploads/2023/05/bowls_soup_krevetko_r-1.jpg"
+	},
+	{
+		"id": "SyНIrRts6JkoGE3SN-8Rw",
+		"shopName": "str",
+		"price": "2",
+		"name": "Mango Boom",
+		"img": "https://salateira.ua/wp-content/uploads/2022/10/mango-bum-sait.jpg"
+	},
+	{
+		"id": "SyНIrRts6JkoGE3SN-9Rw",
+		"shopName": "str",
+		"price": "1.5",
+		"name": "Mojito",
+		"img": "https://salateira.ua/wp-content/uploads/2023/05/nap_3-1.jpg"
+	}
+]
